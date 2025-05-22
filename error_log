@@ -1,0 +1,125 @@
+[27-Jan-2025 17:56:30 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinktop in /home/theanfac/mayurstay.com/palpacycling/views/module.header.php on line 34
+[27-Jan-2025 17:56:30 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinkbtm in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 47
+[27-Jan-2025 17:56:30 Asia/Kathmandu] PHP Notice:  Undefined index: module:otatop in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 105
+[28-Jan-2025 15:14:35 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinktop in /home/theanfac/mayurstay.com/palpacycling/views/module.header.php on line 34
+[28-Jan-2025 15:14:35 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinkbtm in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 47
+[28-Jan-2025 15:14:35 Asia/Kathmandu] PHP Notice:  Undefined index: module:otatop in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 105
+[28-Jan-2025 15:14:41 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinktop in /home/theanfac/mayurstay.com/palpacycling/views/module.header.php on line 34
+[28-Jan-2025 15:14:41 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinkbtm in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 47
+[28-Jan-2025 15:14:41 Asia/Kathmandu] PHP Notice:  Undefined index: module:otatop in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 105
+[28-Jan-2025 15:14:48 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinktop in /home/theanfac/mayurstay.com/palpacycling/views/module.header.php on line 34
+[28-Jan-2025 15:14:48 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinkbtm in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 47
+[28-Jan-2025 15:14:48 Asia/Kathmandu] PHP Notice:  Undefined index: module:otatop in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 105
+[30-Jan-2025 11:00:01 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinktop in /home/theanfac/mayurstay.com/palpacycling/views/module.header.php on line 34
+[30-Jan-2025 11:00:01 Asia/Kathmandu] PHP Notice:  Undefined index: module:socilaLinkbtm in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 47
+[30-Jan-2025 11:00:01 Asia/Kathmandu] PHP Notice:  Undefined index: module:otatop in /home/theanfac/mayurstay.com/palpacycling/views/module.footer.php on line 105
+[14-Feb-2025 06:35:50 UTC] PHP Warning:  require_once(/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php): failed to open stream: No such file or directory in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:35:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:36:10 UTC] PHP Warning:  require_once(/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php): failed to open stream: No such file or directory in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:36:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:39:08 UTC] PHP Warning:  require_once(/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php): failed to open stream: No such file or directory in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:39:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:39:10 UTC] PHP Warning:  require_once(/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php): failed to open stream: No such file or directory in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:39:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:39:55 UTC] PHP Warning:  require_once(/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php): failed to open stream: No such file or directory in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:39:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:40:27 UTC] PHP Warning:  require_once(/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php): failed to open stream: No such file or directory in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:40:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:41:03 UTC] PHP Warning:  require_once(/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php): failed to open stream: No such file or directory in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 06:41:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/palpadistrictcycling/dynamic/includes/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/includes/database.php on line 2
+[14-Feb-2025 15:28:33 Asia/Kathmandu] PHP Notice:  Undefined offset: 0 in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.services.php on line 317
+[14-Feb-2025 15:28:33 Asia/Kathmandu] PHP Notice:  Undefined offset: 0 in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.services.php on line 318
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 23
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_lname in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 23
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_email in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 24
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_phone in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 25
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 33
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_lname in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 33
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_email in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 41
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 41
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_email in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 42
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 42
+[09-May-2025 15:54:14 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 53
+[09-May-2025 16:12:06 Asia/Kathmandu] PHP Notice:  Undefined property: Blog::$notice_date in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 413
+[09-May-2025 16:12:06 Asia/Kathmandu] PHP Notice:  Undefined property: Blog::$notice_date in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 413
+[09-May-2025 16:12:59 Asia/Kathmandu] PHP Notice:  Undefined property: Blog::$notice_date in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 413
+[09-May-2025 16:12:59 Asia/Kathmandu] PHP Notice:  Undefined property: Blog::$notice_date in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 413
+[09-May-2025 16:13:00 Asia/Kathmandu] PHP Notice:  Undefined property: Blog::$notice_date in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 413
+[09-May-2025 16:13:00 Asia/Kathmandu] PHP Notice:  Undefined property: Blog::$notice_date in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 413
+[09-May-2025 16:28:09 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:09 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:09 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:09 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:09 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:09 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:48 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:48 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:48 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:48 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:48 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:48 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:49 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:49 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:49 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:49 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:49 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:49 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:28:51 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:51 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:51 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:51 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:51 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:51 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:57 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:57 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:57 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:28:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 195
+[09-May-2025 16:29:30 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:29:30 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:29:30 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:29:30 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:29:30 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:29:30 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:01 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:01 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:01 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:01 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:01 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:01 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:18 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:18 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:18 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:18 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:18 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:18 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:19 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:19 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:19 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:19 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:19 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:19 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:26 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:26 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:26 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:28 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:28 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:28 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:28 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:28 Asia/Kathmandu] PHP Notice:  Undefined variable: blogDetails in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:30:28 Asia/Kathmandu] PHP Notice:  Trying to get property 'author' of non-object in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/views/module.blog.php on line 83
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 23
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_lname in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 23
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_email in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 24
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_phone in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 25
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 33
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_lname in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 33
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_email in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 41
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 41
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_email in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 42
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 42
+[09-May-2025 16:40:33 Asia/Kathmandu] PHP Notice:  Undefined variable: cf_name in /home/theanfac/mayurstay.com/palpadistrictcycling/dynamic/enquery_mail.php on line 53

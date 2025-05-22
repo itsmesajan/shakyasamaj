@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palpa District Cycling Association </title> -->
+    <jcms:site:seotitle/>
+    <jcms:site:favicon/>
+    <link rel="shortcut icon" href="img/favicon.png">
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="css/glightbox.min.css" />
+    <link rel="stylesheet" href="css/phospor-icon.css">
+    <link rel="stylesheet" href="css/scrollCue.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- NAVIGATION -->
+    <jcms:module:header/>
+    <!-- NAVIGATION END -->
+
+    <!-- <section id="hero" class="contact-top">
+        <div class="container contact_inner">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3 text-center">
+                    <h1 class="hero_title" data-cue="slideInUp" data-delay="400">
+                        Contact Us
+                    </h1>
+                </div>
+                <!-- /.col-lg-6 offset-3 --
+            </div>
+            <!-- /.row --
+        </div>
+        <!-- /.container --
+        <div class="mask mask_dark"></div>
+    </section>
+    <!-- /#hero.contact-top --
+
+    <section class="pb-100  bg-blob-white contact-with-form">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 position-relative">
+                    <div class="map_bottom">
+                        <img src="img/background/contact1.jpg">
+                    </div>
+                </div>
+                <!-- col-lg-3 --
+
+                <div class="col-lg-6">
+                    <h3 class="mb-2">Get In Touch</h3>
+                    <p>We're here to help 24/7/365, and will respond to your inquiry as soon as possible.</p>
+                    <form action="#" class="contact-form">
+                        <input class="form-control" type="text" name="name" placeholder="Your name*">
+                    
+                        <input class="form-control" type="email" name="email" placeholder="Your email*">
+
+                        <input class="form-control" type="tel" name="phone" placeholder="Your phone*">
+
+                        <input class="form-control" type="text" name="address" placeholder="Your Address*">
+                          
+                        <textarea class="form-control" rows="4" placeholder="Your message..." name="message"></textarea>
+                     
+                        <div class="button-area">
+                          <button  class="btn rdn_btn"  type="submit">Send Message</button>
+                          <span class="contact_out_text"></span>
+                        </div>
+                    </form>
+                </div>
+                <!-- col-lg-6 --
+            </div>
+            <!-- row --
+        </div>
+        <!-- container --
+    </section> -->
+    <jcms:module:contact-us/>
+    <!-- contact-with-form -->
+
+    <!--  FOOTER START -->
+    <jcms:module:footer/>
+    <!-- /.content -->
+    <!--  FOOTER END -->
+
+    <div class="scrollToTopBtn"><i class="fas fa-arrow-up"></i></div>
+
+    <!-- JAVASCRIPT -->
+    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/swiper-bundle.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/glightbox.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/scrollCue.min.js"></script>
+    <script src="js/slideanimation.js"></script>
+    <script src="js/vanilla-counter.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/vanilla-tilt.min.js"></script>
+    <script src="js/typewriter-effect.js"></script>
+    <script src="js/script.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.21.0/jquery.validate.min.js'></script>
+    <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+    <script type="text/javascript">
+        //   var base_url = jQuery('base').attr('url');
+            jQuery(document).ready(function () {
+                jQuery('#contactForm').validate({
+                    errorElement: 'span',
+                    errorClass: 'validate-has-error',
+                    rules: {
+                        name: {required: true},
+                        email: {required: true, email: true},
+                        phone: {required: true},
+                        address: {required: true},
+                        message: {required: true}
+                    },
+                    messages: {
+                        name: {
+                            required: "Please enter your full name",
+                            minlength: "Your Name must consist of at least 2 characters"
+                        },
+                        email: {
+                            required: "Please enter a valid email address",
+                            email: "Please enter a valid email address"
+                        },
+                        address:{required: "Please enter address"},
+                        phone: {required: "Please enter contact number"},
+                        message: {required: "Please enter message"}
+                    },
+
+                    submitHandler: function (form) {
+                          var recaptcha = $("#g-recaptcha-response").val();
+                            if (recaptcha === "") {
+                                event.preventDefault();
+                                alert("Please check the recaptcha");
+                                return false;
+                            }
+
+                        var Frmval = jQuery("form#contactForm").serialize();
+                        jQuery("button#submitContact").attr("disabled", "true").val('Processing...');
+                        jQuery.ajax({
+                            type: "POST",
+                            dataType: "JSON",
+                            url: "enquery_mail.php",
+                            data: "action=forContact&" + Frmval,
+                            success: function (data) {
+                                var msg = eval(data);
+                                jQuery("button#submitContact").removeAttr("disabled").val('Send');
+                                jQuery('span.contact_out_text').html(msg.message).css('display', 'block').fadeOut(15000);
+                                jQuery("form#contactForm")[0].reset();
+                            }
+                        });
+                        return false;
+                    }
+                })
+        
+            });
+        
+        </script>
+</body>
+</html>

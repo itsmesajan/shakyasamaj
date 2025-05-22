@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+    <loc>https://www.palpajillacycling.org.np/</loc>
+    <lastmod>2025-05-13T23:22:13+05:45</lastmod>
+    <priority>1</priority>
+</url>
+
+        <url>
+            <loc>https://www.palpajillacycling.org.np/home</loc>
+            <lastmod>2025-05-13T23:22:13+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/contact-us</loc>
+            <lastmod>2025-05-13T23:22:13+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/services</loc>
+            <lastmod>2025-05-13T23:22:13+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/gallery-list</loc>
+            <lastmod>2025-05-13T23:22:13+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/test</loc>
+            <lastmod>2025-02-10T13:12:21+05:45</lastmod>
+            <priority>0.75</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/about-us</loc>
+            <lastmod>2025-05-09T15:12:48+05:45</lastmod>
+            <priority>0.75</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/community-its-what-we-are-all-about</loc>
+            <lastmod>2025-05-09T15:13:40+05:45</lastmod>
+            <priority>0.75</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/social-event</loc>
+            <lastmod>2025-02-13T11:29:12+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/special-event</loc>
+            <lastmod>2025-02-10T11:43:26+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/charity</loc>
+            <lastmod>2025-02-10T11:19:31+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/heritage-ride-2081</loc>
+            <lastmod>2025-05-09T15:38:32+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.palpajillacycling.org.np/heritage-ride-2081-opening-ceremony</loc>
+            <lastmod>2025-05-09T14:54:49+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    </urlset>
